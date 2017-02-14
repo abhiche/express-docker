@@ -1,0 +1,11 @@
+{
+  "name": "express-docker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.14.1"
+  }
+}
