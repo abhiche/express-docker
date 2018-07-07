@@ -1,1 +1,1 @@
-# Test project
+# Test project for s2i
