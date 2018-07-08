@@ -2,7 +2,7 @@
  * Module dependencies.
  */
 
-var app = require('./app');
+var app = require('./lib/app');
 var http = require('http');
 
 /**
